@@ -4,7 +4,6 @@ Seja Bem vindo ao meu repositório, me siga para ver a minha evolução! 🤟
 
 
 - 💻 Back End Developer
-- 👨‍💻 Entusiasta de Python 🐍
 - 📫 Entre em contato comigo pelo email: edsonr065@gmail.com
 
 <div>
