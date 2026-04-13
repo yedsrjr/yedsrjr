@@ -25,7 +25,7 @@ Tenho maior foco em desenvolvimento com ecossistema .NET, trabalhando principalm
 
 ## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yedsrjr&theme=tokyonight&locale=pt_BR&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yedsrjr&theme=tokyonight&cache_seconds=1)
 
 ## Contato
 
