@@ -1,10 +1,10 @@
-### Olá! Eu sou o Edson Rodrigues
+### Hello! I'm Edson Rodrigues
 
-Sou desenvolvedor Back-End com foco em **C#**, criando e estudando soluções voltadas para APIs, banco de dados e boas práticas de arquitetura.
+I'm a Back-End Developer focused on C#, building and studying solutions centered on APIs, databases, and software architecture best practices.
 
-Tenho maior foco em desenvolvimento com ecossistema .NET, trabalhando principalmente com construção de APIs, persistência de dados e organização de código.
+My primary focus is development within the .NET ecosystem, working mainly on API development, data persistence, and clean, well-structured code.
 
-## Stack principal
+## Core Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,7 +12,7 @@ Tenho maior foco em desenvolvimento com ecossistema .NET, trabalhando principalm
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-6DB33F?style=for-the-badge&logo=.net&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-0C54C2?style=for-the-badge&logo=.net&logoColor=white)
 
-## Tecnologias e ferramentas
+## Technologies and Tools
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,9 +25,9 @@ Tenho maior foco em desenvolvimento com ecossistema .NET, trabalhando principalm
 
 ## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yedsrjr&theme=tokyonight&locale=pt_BR&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yedsrjr&theme=tokyonight&locale=en_BR&hide_border=true)
 
-## Contato
+## Contact
 
 - Email: **edsonr065@gmail.com**
 
